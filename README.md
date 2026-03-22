@@ -1,6 +1,6 @@
 # Health Tracker API
 
-**Test 1 - Systems Programming and Computer Organization**
+**Test 1 - Systems Programming & Computer Organization**
 
 **Checkpoint 1**
 
