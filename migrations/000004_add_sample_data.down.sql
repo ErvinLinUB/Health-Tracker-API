@@ -1,0 +1,3 @@
+DELETE FROM meals;
+DELETE FROM workouts;
+DELETE FROM users;
